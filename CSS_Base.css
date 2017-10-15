@@ -1,0 +1,69 @@
+body {
+  background: url("http://www.wallpapers-web.com/data/out/6/3742106-abstract-texture-wallpapers.jpg");
+}
+.align-right {
+  float: right;
+}
+.b-config {
+  background-color:white;
+  position: relative;
+  width: auto;
+  text-align: center;
+  font-family:'Play', sans-serif;
+  font-size:16px;
+  margin: 2px 1px 2px 1px;
+  border-radius: 8%;
+  border: 2px solid black;
+  padding: .5% 1% .5% 1%;
+}
+.pretty-text {
+  font-family:'Play', sans-serif;
+  color:white;
+  text-shadow: 1px 1px 2px black, 0 0 5px grey;
+}
+.cork {
+  background-color: rgba(0, 0, 0, .7);
+  border-color: black;
+  border-style: solid;
+  border-width: 2%;
+  border-radius: 5px;
+  padding: .5% .5% .5% .5%;
+  margin: 1% auto 1% auto;
+  width:80%;
+}
+.center {
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+}
+.image-center {
+  display: block;
+  margin : 0 auto;
+  border-color: black;
+  border-style: solid;
+  border-width: 5%;
+  border-radius: 5px;
+  width:25%;
+  max-width:25%;
+}
+#fb-icon {
+  color: rgb(59, 89, 152);
+}
+#git-icon {
+  color: rgb(0, 172,237);
+}
+#li-iconP {
+  color: rgb(0, 127, 178);
+}
+#fcc-icon {
+  color: black;
+}
+#classlist{
+  margin-left:25%;
+  margin-right:15%;
+}
+.clean-text {
+  margin-left:15%;
+  margin-right:15%;
+  text-align:justify;
+}
